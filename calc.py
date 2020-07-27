@@ -2,7 +2,7 @@ def add(x, y):
     pass
 
 def subract(x, y):
-    pass
+    return abs(x-y)
 
 def multipy(x, y):
     return x * y 
