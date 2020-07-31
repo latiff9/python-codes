@@ -15,3 +15,5 @@ array_number = [int(ch) for ch in array_temp]
 print(f'string array = {array_string}', type(array_string))
 print(f'temp string array = {array_temp}', type(array_temp))
 print(f'number array = {array_number}')
+
+# add comment
